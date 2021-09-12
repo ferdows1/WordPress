@@ -7,6 +7,7 @@
  *
  * https://pantheon.io/docs
  */
+set_time_limit (3000);
 
 /**
  * Pantheon platform settings. Everything you need should already be set.
